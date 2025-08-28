@@ -2,8 +2,6 @@
 
 A modern, responsive web application that generates QR codes and barcodes for URLs, text, WiFi credentials, and downloadable files. Built with vanilla HTML, CSS, and JavaScript for maximum compatibility and performance.
 
-![QR Code Generator Banner](https://via.placeholder.com/800x400/667eea/ffffff?text=QR+%26+Barcode+Generator)
-
 ## ✨ Features
 
 ### 🎯 Multiple Generation Types
@@ -88,10 +86,7 @@ A modern, responsive web application that generates QR codes and barcodes for UR
 qr-barcode-generator/
 │
 ├── CodeGenerator.html              # Main application file
-├── README.md              # Project documentation
-└── assets/               # Optional assets folder
-    ├── screenshots/      # Application screenshots
-    └── icons/           # Favicon and app icons
+└── README.md              # Project documentation
 ```
 
 ## 🔧 Technologies Used
